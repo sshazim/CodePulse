@@ -430,8 +430,8 @@ The key takeaway: **focus first on architecture and coordination patterns**, the
 
 I'd love to hear your thoughts on multi-agent architectures or discuss how these patterns might apply to your projects!
 
-- **LinkedIn**: [linkedin.com/in/shazimsurmawala](https://www.linkedin.com/in/shazimsurmawala)
-- **GitHub**: [github.com/shazimsurmawala](https://github.com/shazimsurmawala)
+- **LinkedIn**: [linkedin.com/in/shazim-surmawala](https://www.linkedin.com/in/shazim-surmawala)
+- **GitHub**: [github.com/sshazim](https://github.com/sshazim)
 - **Kaggle Notebook**: [CodePulse Demo](https://www.kaggle.com/code/shazimsurmawala/codepulse)
 - **Github** [CodePulse](https://github.com/sshazim/CodePulse)
 
